@@ -3,8 +3,7 @@ rust: nightly
 
 script:
     - cargo build --features nightly
-    - cargo test --features nightly
-    - cargo bench --features nightly
+   
 
 after_success:
   
