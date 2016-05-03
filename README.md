@@ -1,3 +1,6 @@
+mytest
+[![Build Status](https://travis-ci.org/robisys/rust-websocket.svg?branch=master)](https://travis-ci.org/robisys/rust-websocket)
+
 Rust-WebSocket [![Build Status](https://travis-ci.org/cyderize/rust-websocket.svg?branch=master)](https://travis-ci.org/cyderize/rust-websocket)
 ==============
 
